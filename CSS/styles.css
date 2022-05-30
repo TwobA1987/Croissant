@@ -2,6 +2,10 @@ body {
   text-align: center;
   background-color: rgb(249, 206, 126);
 }
+img {
+  border-radius: 10px;
+  width: 600px;
+}
 .navigation-link {
   padding: 10px;
 }
